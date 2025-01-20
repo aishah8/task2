@@ -7,4 +7,4 @@ chmod command explanation:
 	•	7 means the group can also read (r), write (w), and execute (x) the file.
 	•	5 means others can read (r) and execute (x) the file, but cannot modify it.
 
- 
+![image alt](https://github.com/aishah8/task2/blob/83b3eac0621ef675cc244781241b2c8a4d63fa07/agg.jpg)
